@@ -18,11 +18,11 @@ This project demonstrates how authentication works using **PHP sessions**, witho
 - PHP (sessions)
 
 ## 📁 Project Structure
-|-index.php # Login page
-|-login.php # Login logic
-|-dashboard.php # Protected page
-|-logout.php # Logout logic
-|-css/style.css # Styles
+- index.php # Login page
+- login.php # Login logic
+- dashboard.php # Protected page
+- logout.php # Logout logic
+- css/style.css # Styles
 
 
 ## 🚀 How to Run
