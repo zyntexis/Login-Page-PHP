@@ -42,7 +42,7 @@ This project is made for **beginners** who want to understand:
 
 ## 📺 Video Tutorial
 Watch the full build on YouTube:  
-👉 *Zyntexis* (link here)
+👉 [*Zyntexis*](https://youtu.be/OcF22ZL1pg8)
 
 ## 📜 License
 Free to use for learning and personal projects.
